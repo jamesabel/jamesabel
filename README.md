@@ -23,10 +23,10 @@ Co-organizer of local Python meetups ([SF Python](https://www.meetup.com/sfpytho
 
 - Implemented Signal Processing and Machine Learning algorithms using Magnetic Resonance Spectroscopy (MRS) data to 
 aid in the treatment of Chronic Low Back Pain (CLBP).
-- Architected and developed a cloud-based product for the medical industry using AWS.
+- Architected and developed the *Nociscan-LS* cloud-based product for the medical industry using AWS.
 - Interfaced into cloud medical imaging systems (Ambra).
 - Worked closely with Regulatory Affairs to ensure product compliance with US, EU, and UK regulations.
-- Generated IP and patents for applying Machine Learning to Magnetic Resonance Spectroscopy (MRS) data.
+- Generated IP and Patents for applying Machine Learning to Magnetic Resonance Spectroscopy (MRS) data.
 - Developed primarily in Python and C/C++.
 - Both individual contributor and manager of a small technical team.
 - Drove engineering planning, execution, and delivery. Presented and obtained buy-in to C-Suite and Board of Directors.
