@@ -18,13 +18,17 @@ many other languages.
 **VP of Engineering**  
 *May 2018 - Present*
 
-- Implemented signal processing and machine learning algorithms for medical imaging.
+- Implemented Signal Processing and Machine Learning algorithms using Magnetic Resonance Spectroscopy (MRS) data to 
+aid in the treatment of Chronic Low Back Pain (CLBP).
 - Architected and developed a cloud-based product for the medical industry using AWS.
-- Responsible for the production stack.
 - Interfaced into cloud medical imaging systems (Ambra).
+- Worked closely with Regulatory Affairs to ensure product compliance with US, EU, and UK regulations.
+- Generated IP and patents for applying Machine Learning to Magnetic Resonance Spectroscopy (MRS) data.
 - Developed primarily in Python and C/C++.
+- Both individual contributor and manager of a small technical team.
+- Drove engineering planning, execution, and delivery. Presented and obtained buy-in to C-Suite and Board of Directors.
+- Responsible for entire production stack.
 
-### abel.co
 **Computer Engineering Consultant**  
 *July 2016 - May 2018*
 
