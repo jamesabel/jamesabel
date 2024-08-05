@@ -7,10 +7,13 @@ Redwood City, California, United States
 
 ## Summary
 
-Principal Engineer experienced in software and hardware architecture and development. Skilled in cloud architectures, 
+Engineer experienced in software and hardware architecture and development. Skilled in cloud architectures, 
 computer architectures, digital signal processing, machine learning, performance optimization, design automation, and simulation. 
 Experienced in managing technical teams (10-20 engineers). Currently developing in Python and C/C++, with experience in 
 many other languages.
+
+Co-organizer of local Python meetups ([SF Python](https://www.meetup.com/sfpython/)) and regional conferences
+([PyBay](www.pybay.org)). Creator and contributor to several [Python open-source projects](https://github.com/jamesabel?tab=repositories).
 
 ## Experience
 
