@@ -12,7 +12,7 @@ computer architectures, digital signal processing, machine learning, application
 optimization, design automation, and simulation. Experienced in managing technical teams (10-20 engineers). 
 Currently developing in Python and C/C++, with experience in many other languages.
 
-Co-organizer of local Python meetups ([SF Python](https://www.meetup.com/sfpython/)) and regional conferences
+Co-organizer of local Python meetup ([SF Python](https://www.meetup.com/sfpython/)) and regional conference
 ([PyBay](https://www.pybay.org)). Creator and contributor to several [Python open-source projects](https://github.com/jamesabel?tab=repositories).
 
 ## Experience
