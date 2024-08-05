@@ -13,7 +13,7 @@ Experienced in managing technical teams (10-20 engineers). Currently developing 
 many other languages.
 
 Co-organizer of local Python meetups ([SF Python](https://www.meetup.com/sfpython/)) and regional conferences
-([PyBay](www.pybay.org)). Creator and contributor to several [Python open-source projects](https://github.com/jamesabel?tab=repositories).
+([PyBay](https://www.pybay.org)). Creator and contributor to several [Python open-source projects](https://github.com/jamesabel?tab=repositories).
 
 ## Experience
 
